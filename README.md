@@ -16,4 +16,4 @@ Contact me at https://www.linkedin.com/in/nirmal-priyankara-ab8116275/
 He/Him or Bro
 
 ⚡ Fun Fact
-I have a knack for solving complex puzzles, brewing my own coffee, finding innovative ideas, and looking at new startups, which keeps my creativity flowing!
+I have a knack for solving complex puzzles, brewing my own coffee, finding innovative ideas, looking at new startups, and writing my blogs(https://medium.com/@nirmalpriyankara2003), which keeps my creativity flowing!
