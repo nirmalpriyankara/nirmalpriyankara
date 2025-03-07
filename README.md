@@ -1,6 +1,6 @@
 # 💡 Welcome to My Universe! 🚀
 
-Hi, I'm **[Your Name]**, an **innovator, entrepreneur, and developer** on a mission to **disrupt industries** and build tech-driven solutions. Whether it's launching startups, coding scalable systems, or chasing financial independence (LKR 210M by 30 💰), I'm always engineering something **game-changing.**
+Hi, I'm **Nirmal**, an **innovator, entrepreneur, and developer** on a mission to **disrupt industries** and build tech-driven solutions. Whether it's launching startups, coding scalable systems, or chasing financial independence, I'm always engineering something **game-changing.**
 
 ---
 
