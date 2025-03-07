@@ -1,60 +1,86 @@
-### Hi there, I'm [Your Name] 👋 🚀
+# 💡 Welcome to My Universe! 🚀
 
-#### 🔥 Entrepreneur | 🚀 Developer | 📈 Future Billionaire
-
----
-
-![Innovative Banner](https://source.unsplash.com/1600x400/?technology,startup,success)
+Hi, I'm **[Your Name]**, an **innovator, entrepreneur, and developer** on a mission to **disrupt industries** and build tech-driven solutions. Whether it's launching startups, coding scalable systems, or chasing financial independence (LKR 210M by 30 💰), I'm always engineering something **game-changing.**
 
 ---
 
-### 🚀 About Me:
+## 🚀 Who Am I?
 
-- 🎓 **Undergraduate at the University of Moratuwa, Sri Lanka**
-- 🏗️ **Founder of ALFI US & KONIK CLOTHINGS**
-- 💰 **On a mission to earn LKR 210 million by age 30**
-- 💡 **Building tech solutions, growing businesses, and making an impact**
-- 📖 **Blogger & Knowledge Seeker**
-
----
-
-### 📊 My GitHub Stats:
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirmalpriyankara&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirmalpriyankara&layout=compact&theme=radical)
+🔹 **Entrepreneur:** Founder of **ALFI US** (redefining social credibility) & **KONIK CLOTHINGS** (building a fashion empire from scratch).  
+🔹 **Full-Stack Developer:** Crafting scalable backend solutions & intuitive frontends.  
+🔹 **Visionary:** Combining **tech, business, and data** to create impact.  
+🔹 **Financial Strategist:** Mastering wealth-building strategies with daily execution plans.  
+🔹 **Blogger:** Sharing insights on startups, tech, and financial growth.
 
 ---
 
-### 🏗️ Current Projects:
+## 🔥 Why Am I Different?
 
-- **🚀 ALFI US**: A social media platform revolutionizing knowledge-sharing with credibility-based ratings.
-- **👕 KONIK CLOTHINGS**: Building a fashion brand from the ground up, one quality product at a time.
-- **📦 Parcel Management System**: Developing a smart logistics backend using **Node.js, Express, and MongoDB**.
-
----
-
-### 📌 Connect with Me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/your-username)
-[![Blog](https://img.shields.io/badge/Blog-Read-orange?style=flat&logo=medium)](https://yourblog.com)
+✔️ **I build from scratch:** I don’t just code; I architect solutions with a **vision.**  
+✔️ **I blend innovation & business:** Every project I touch has a **strategic edge.**  
+✔️ **I optimize everything:** From **Node.js backends** to financial plans, I make things work **smarter, not harder.**  
+✔️ **I execute relentlessly:** Planning is great, but I’m **obsessed with action.**
 
 ---
 
-### ⚡ Fun Fact:
+## 🌟 What I’m Working On:
 
-> *"The best way to predict the future is to create it."* – Peter Drucker
+### **1️⃣ ALFI US - The Future of Knowledge Networking**
+🔹 **A revolutionary social media platform** with an **expert-based rating system.**  
+🔹 ALFI-R score to measure credibility in different knowledge fields.  
+🔹 Goal: **Make information trustworthy & professional networking smarter.**
+
+### **2️⃣ KONIK CLOTHINGS - From Concept to Brand**
+🔹 **Building a fashion brand** from the ground up.  
+🔹 Selling **premium-branded apparel** with strategic marketing.  
+🔹 Goal: **Expand globally, establish a unique fashion identity.**
+
+### **3️⃣ Full-Stack Development & Parcel Management System**
+🔹 **Tech Stack:** Node.js, Express.js, MongoDB, React (learning frontend 🚀)  
+🔹 Building an **AI-powered shipment processing system**.  
+🔹 **Algorithmic optimization** for real-time logistics solutions.
 
 ---
 
-### 💡 Tech Stack:
+## 📊 GitHub Stats & Productivity Streak
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nirmalpriyankara&show_icons=true&theme=radical)
+
+🔥 **Current Streak:**  
+![Your Streak](https://github-readme-streak-stats.herokuapp.com/?user=nirmalpriyankara&theme=radical)
+
+🚀 **Top Languages:**  
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirmalpriyankara&layout=compact&theme=radical)
+
+
+## 🛠️ Tech Stack & Tools
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-**💬 Let's Build the Future Together!** 🚀
+## 📅 What's Next?
+
+✅ **Launch MVP of ALFI US** 🚀  
+✅ **Expand KONIK CLOTHINGS** 👕  
+✅ **Master React & Frontend Development** 💻  
+✅ **Grow Financial Investments & Passive Income** 💰  
+✅ **Continue Hustling & Innovating** 🏆
+
+---
+
+## 📫 Connect With Me
+
+🔹 **LinkedIn:** [Your Profile](#)  
+🔹 **Twitter:** [Your Handle](#)  
+🔹 **GitHub:** [YourUsername](https://github.com/yourusername)  
+🔹 **Website/Blog:** [Coming Soon!] 🚀
+
+---
+
+🚀 **Dream Big. Build Bigger. Keep Innovating!** 🚀
+
