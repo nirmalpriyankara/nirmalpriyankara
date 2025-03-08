@@ -73,11 +73,11 @@ Hi, I'm **Nirmal**, an **innovator, entrepreneur, and developer** on a mission t
 
 ---
 
-## Connect With Me
+## Connect with Me  
 
-🔹 **LinkedIn:** [https://www.linkedin.com/in/nirmal-priyankara-ab8116275/] 
-🔹 **GitHub:** [nirmalpriyankara](https://github.com/nirmalpriyankara)  
-🔹 **Website/Blog:** [https://medium.com/@nirmalpriyankara] 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirmal-priyankara-ab8116275/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nirmalpriyankara)  
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nirmalpriyankara)  
 
 ---
 
