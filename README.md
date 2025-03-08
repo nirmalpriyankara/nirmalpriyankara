@@ -75,12 +75,11 @@ Hi, I'm **Nirmal**, an **innovator, entrepreneur, and developer** on a mission t
 
 ## Connect With Me
 
-🔹 **LinkedIn:** [Your Profile](#)  
-🔹 **Twitter:** [Your Handle](#)  
-🔹 **GitHub:** [YourUsername](https://github.com/yourusername)  
-🔹 **Website/Blog:** [Coming Soon!] 🚀
+🔹 **LinkedIn:** [https://www.linkedin.com/in/nirmal-priyankara-ab8116275/] 
+🔹 **GitHub:** [nirmalpriyankara](https://github.com/nirmalpriyankara)  
+🔹 **Website/Blog:** [https://medium.com/@nirmalpriyankara] 
 
 ---
 
-🚀 **Dream Big. Build Bigger. Keep Innovating!** 🚀
+ **Dream Big. Build Bigger. Keep Innovating!** 
 
