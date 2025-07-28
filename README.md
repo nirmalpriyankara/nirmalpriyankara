@@ -16,26 +16,26 @@ Hi, I'm **Nirmal**, an **innovator, entrepreneur, and developer** on a mission t
 
 ## Why Am I Different?
 
-✔️ **I build from scratch:** I don’t just code; I architect solutions with a **vision.**  
-✔️ **I blend innovation & business:** Every project I touch has a **strategic edge.**  
-✔️ **I optimize everything:** From **Node.js backends** to financial plans, I make things work **smarter, not harder.**  
-✔️ **I execute relentlessly:** Planning is great, but I’m **obsessed with action.**
+ **I build from scratch:** I don’t just code; I architect solutions with a **vision.**  
+ **I blend innovation & business:** Every project I touch has a **strategic edge.**  
+ **I optimize everything:** From **Node.js backends** to financial plans, I make things work **smarter, not harder.**  
+ **I execute relentlessly:** Planning is great, but I’m **obsessed with action.**
 
 ---
 
-## 🌟 What I’m Working On:
+##  What I’m Working On:
 
-### **1️⃣ ALFI US - The Future of Knowledge Networking**
+### **1 ALFI US - The Future of Knowledge Networking**
 🔹 **A revolutionary social media platform** with an **expert-based rating system.**  
 🔹 ALFI-R score to measure credibility in different knowledge fields.  
 🔹 Goal: **Make information trustworthy & professional networking smarter.**
 
-### **2️⃣ KONIK CLOTHINGS - From Concept to Brand**
+### **2 KONIK CLOTHINGS - From Concept to Brand**
 🔹 **Building a fashion brand** from the ground up.  
 🔹 Selling **premium-branded apparel** with strategic marketing.  
 🔹 Goal: **Expand globally, establish a unique fashion identity.**
 
-### **3️⃣ Full-Stack Development & Parcel Management System**
+### **3 Full-Stack Development & Parcel Management System**
 🔹 **Tech Stack:** Node.js, Express.js, MongoDB, React (learning frontend 🚀)  
 🔹 Building an **AI-powered shipment processing system**.  
 🔹 **Algorithmic optimization** for real-time logistics solutions.
@@ -46,10 +46,10 @@ Hi, I'm **Nirmal**, an **innovator, entrepreneur, and developer** on a mission t
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nirmalpriyankara&show_icons=true&theme=radical)
 
-🔥 **Current Streak:**  
+ **Current Streak:**  
 ![Your Streak](https://github-readme-streak-stats.herokuapp.com/?user=nirmalpriyankara&theme=radical)
 
-🚀 **Top Languages:**  
+ **Top Languages:**  
 ![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirmalpriyankara&layout=compact&theme=radical)
 
 
@@ -65,11 +65,11 @@ Hi, I'm **Nirmal**, an **innovator, entrepreneur, and developer** on a mission t
 
 ## What's Next?
 
-✅ **Launch MVP of ALFI US** 🚀  
-✅ **Expand KONIK CLOTHINGS** 👕  
-✅ **Master React & Frontend Development** 💻  
-✅ **Grow Financial Investments & Passive Income** 💰  
-✅ **Continue Hustling & Innovating** 🏆
+ **Launch MVP of ALFI US**   
+ **Expand KONIK CLOTHINGS**   
+ **Master React & Frontend Development**   
+ **Grow Financial Investments & Passive Income**   
+ **Continue Hustling & Innovating** 
 
 ---
 
