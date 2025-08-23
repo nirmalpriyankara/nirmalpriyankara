@@ -44,13 +44,13 @@ Hi, I'm **Nirmal**, an **innovator, entrepreneur, and developer** on a mission t
 
 ## GitHub Stats & Productivity Streak
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nirmalpriyankara&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nirmalkalubovila&show_icons=true&theme=radical)
 
  **Current Streak:**  
-![Your Streak](https://github-readme-streak-stats.herokuapp.com/?user=nirmalpriyankara&theme=radical)
+![Your Streak](https://github-readme-streak-stats.herokuapp.com/?user=nirmalkalubovila&theme=radical)
 
  **Top Languages:**  
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirmalpriyankara&layout=compact&theme=radical)
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirmalkalubovila&layout=compact&theme=radical)
 
 
 ## Tech Stack & Tools
